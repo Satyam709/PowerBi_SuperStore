@@ -55,11 +55,12 @@ The dataset used in this analysis includes:
 - **Customer & Product Insights**
 
 
-## 👨‍💻 Author
+## 👨‍💻 Author  
 **Satyam Kumar Chauhan**  
 Passionate Data Analyst & UI/UX Expert  
-📧 [satyamchauhan709@gmail.com]  
-🔗 [https://www.linkedin.com/in/satyam-chauhan-87ba282bb/]  
+
+📧 [satyamchauhan709@gmail.com](mailto:satyamchauhan709@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/satyam-chauhan-87ba282bb/) 
 
 ---
 
